@@ -1,6 +1,6 @@
 ﻿# Hi, I'm Weijian
 
-主攻后端，关注平台系统、消息链路、基础设施与 AI 应用工程化。
+主攻后端，关注平台系统、消息链路、基础设施、AI应用工程化与研发效能工具。
 
 这里主要整理一些公开可见的代码和技术笔记。
 
@@ -16,10 +16,14 @@
 
 ![Tech Stack](https://skillicons.dev/icons?i=java,kotlin,spring,mongodb,mysql,redis,rabbitmq,kafka,cs,python,lua,nginx&theme=light&perline=6)
 
+## Recent Build
+
+- [AutoPatch-J](https://github.com/xLabel/AutoPatch-J): 面向Java安全与正确性修复的补丁智能体，结合静态扫描、语法解析与多层验证门禁，实现自动发现、补丁起草与修复校验闭环。
+
 ## What I Usually Work On
 
 - 平台系统与工程基础能力建设
 - 消息链路、同步机制与服务间解耦
 - 存储、缓存、队列、网关等后端基础设施
-- RAG / Agent 相关应用集成与工程化尝试
-- 持续关注 LLM 在研发效能与工程场景中的应用
+- 代码分析、自动修复与验证闭环类开发者工具实践
+- LLM / Agent在研发效能与工程场景中的落地实践
