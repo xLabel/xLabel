@@ -18,7 +18,7 @@
 
 ## Recent Build
 
-- [AutoPatch-J](https://github.com/xLabel/AutoPatch-J)：AI代码修复智能体（暂支持Java）
+- [AutoPatch-J](https://github.com/xLabel/AutoPatch-J) AI代码修复智能体（暂支持Java）
 
 ## What I Usually Work On
 
