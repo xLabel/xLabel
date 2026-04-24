@@ -17,8 +17,7 @@
 ![Tech Stack](https://skillicons.dev/icons?i=java,kotlin,spring,mongodb,mysql,redis,rabbitmq,kafka,cs,python,lua,nginx&theme=light&perline=6)
 
 ## Recent Build
-
-- [AutoPatch-J](https://github.com/xLabel/AutoPatch-J) AI代码修复智能体（暂支持Java）
+- 🤖 **[AutoPatch-J](https://github.com/xLabel/AutoPatch-J)** - AI代码修复智能体（暂支持Java）
 
 ## What I Usually Work On
 
