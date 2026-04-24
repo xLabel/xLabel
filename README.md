@@ -18,7 +18,7 @@
 
 ## Recent Build
 
-- [AutoPatch-J](https://github.com/xLabel/AutoPatch-J): 面向Java安全与正确性修复的补丁智能体，结合静态扫描、语法解析与多层验证门禁，实现自动发现、补丁起草与修复校验闭环。
+- [AutoPatch-J](https://github.com/xLabel/AutoPatch-J)：AI代码修复智能体（暂支持Java）
 
 ## What I Usually Work On
 
